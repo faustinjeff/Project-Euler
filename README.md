@@ -1,2 +1,2 @@
 # Project-Euler
-My solution of Project Euler solution
+This repository contains my solution of Project Euler, written in Javascript
